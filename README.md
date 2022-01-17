@@ -1,5 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kim-wonjin%2Fgjbae1212%2Fhit-counter&count_bg=%23A997E9&title_bg=%237E96F1&icon=tencentqq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-wonjin&show_icons=true&theme=material-palenight)
+
 [![wokimkim's 42 stats](https://badge42.herokuapp.com/api/stats/wokim?privacyEmail=true)](https://github.com/wokim/badge42)
 <!--
 **kim-wonjin/kim-wonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
