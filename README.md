@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-wonjin&show_icons=true&theme=material-palenight)
-
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={깃헙 주소(url)}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![wokimkim's 42 stats](https://badge42.herokuapp.com/api/stats/wokim?privacyEmail=true)](https://github.com/wokim/badge42)
 <!--
