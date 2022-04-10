@@ -2,7 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-wonjin&show_icons=true&theme=material-palenight)
 
-[![wokimkim's 42 stats](https://badge42.herokuapp.com/api/stats/wokim?privacyEmail=true)](https://github.com/wokim/badge42)
 <!--
 **kim-wonjin/kim-wonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
