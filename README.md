@@ -7,7 +7,7 @@
 
   ## 🗓 History 
 
-  <div align=left>
+  <div align="center">
 
   <li>홍익대학교 컴퓨터공학과 <sub>(2019.03 ~)</sub></li>
   <li>École 42 in Seoul (<a href="https://github.com/kim-wonjin/42-cursus">42Seoul</a>) Cadet <sub>(2021.05 ~ 2022.07)</sub></li>
