@@ -1,6 +1,5 @@
 <div align="center">
 
-  ## 👩🏻‍💻 Comment 
 
   <h2>안녕하세요🐱 주니어 개발자 김원진 (Woody🌱) 입니다</h2>
 
