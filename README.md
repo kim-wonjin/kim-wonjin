@@ -40,7 +40,7 @@
   
   ![image](https://img.shields.io/badge/Bootstrap-FF4785?style=flat-square&logo=Storybook&logoColor=white)
   ![image](https://img.shields.io/badge/Bootstrap-764ABC?style=flat-square&logo=Redux&logoColor=white)
-  ![image](https://img.shields.io/badge/Antd-297AEF?style=flat-square&logo=Ant Design&logoColor=white)
+  <img src="https://img.shields.io/badge/Antd-297AEF?style=flat-square&logo=Ant Design&logoColor=white">
   
 
   #### 📌 Backend
