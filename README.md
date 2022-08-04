@@ -41,8 +41,8 @@
   ![image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![image](	https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   
-  ![image](https://img.shields.io/badge/Bootstrap-FF4785?style=flat-square&logo=Storybook&logoColor=white)
-  ![image](https://img.shields.io/badge/Bootstrap-764ABC?style=flat-square&logo=Redux&logoColor=white)
+  ![image](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
+  ![image](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
   <img src="https://img.shields.io/badge/Antd-297AEF?style=flat-square&logo=Ant Design&logoColor=white">
   
 
