@@ -16,7 +16,7 @@
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 1차 <a href="https://github.com/Gosrock/Ticket-Front-21th">FE</a> <sub>(2022.01 ~ 2022.03)</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 2차 <a href="https://github.com/Gosrock/Ticket-Backend-22th">BE</a> <sub>(2022.07 ~ 2022.08)</sub></li>
   <li>그림일기로 소통하는 작은 세상 <a href="https://play.google.com/store/apps/details?id=com.softsquared.grap">비몽</a> 스타트업 Grap Studio 백엔드 개발자 <sub>(2022.08 ~)</sub></li>
-  <li>앱 런칭 연합동아리 CMC(Central Makeus Challenge) 11th Server <sub>(2022.08 ~)</sub></li>
+  <li>앱 런칭 연합동아리 CMC(Central Makeus Challenge) 11th Server <sub>(2022.09 ~)</sub></li>
   
   </div>
 
