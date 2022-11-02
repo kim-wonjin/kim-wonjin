@@ -56,6 +56,7 @@
   ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
   ![image](https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
 
+  ![image](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
   ![image](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
   ![image](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
   ![image](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
