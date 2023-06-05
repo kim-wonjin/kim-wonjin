@@ -21,6 +21,8 @@
   <li>사진이 작품이 되는 공간, <a href="https://apps.apple.com/kr/app/oeuvre/id6443660575">OEUVRE</a> 서버 개발자 <sub>(2022.09 ~ )</sub></li>
   <li>ISTQB(국제 소프트웨어 테스팅 자격증)_FL 취득 <sub>(2023.01)</sub></li>
   <li>모두를 위한 새로운 공연 라이프, <a href="https://github.com/Gosrock/DuDoong-Backend">두둥</a> BE <sub>(2023.01 ~ )</sub></li>
+  <li>웹툰 여행자를 위한 종착역 웹툰 플랫폼, 플레어즈(FLAREZ) 서버 개발 외주 <sub>(2023.03 ~ 2023.06)</sub></li>
+  <li>1000원으로 즐기는 내 손안의 소확잼, 에그픽 관리자 페이지 서버 개발 외주 <sub>(2023.06 ~ )</sub></li>
   
   </div>
 
